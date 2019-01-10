@@ -1,0 +1,9 @@
+Rev2_0_0.py
+- Build for TX1
+- Include Tkinter full screen & cv2.movewindow
+- The program is lean
+- Contain auto on/off
+- Global variable/function begin with Capital letter
+  Local variable/function begin with normal letter
+- Change EAR ratio to 80%
+- Adjust MAR ratio to be more sensitive
